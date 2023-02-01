@@ -3,6 +3,11 @@
 * 🎞 Where: https://www.youtube.com/watch?v=kpj7i_sJk7g
 * ℹ️ Event page: https://www.meetup.com/pyladiesdublin/events/290101036/
 
+# Announcements
+See announcements by Vicky via https://docs.google.com/presentation/d/e/2PACX-1vQn4ZDHGcYbEdHpPh_7hBU3pbC_ethOxkuncmlI7DHEnDlYwkxB1fB6pDg6x3ypCl05bi44CUp5N-Lr/pub?start=false&loop=false&delayms=3000
+
+If you have any announcements you wish to add in our upcoming events (virtual or in-person), email dublin@pyladies.com.
+
 # Talks
 ## Talk 1: Mitigating Bias in AI by Arthur Lubambo
 
