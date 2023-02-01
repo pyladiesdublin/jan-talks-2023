@@ -49,7 +49,7 @@ We would like to thank the following:
 # Get in touch
 
 ## 🎤 Interested in speaking at our upcoming events (virtual or in-person)?
-Submit your talk details: https://share-eu1.hsforms.com/1JaDd_XRCQFKb3cp0akbz8Af1bg5
+Submit your talk details: https://share-eu1.hsforms.com/1HHEGqvm2Q_-B3vqjq53EfQf1bg5
 
 
 ## 💖 Want to get involved?
